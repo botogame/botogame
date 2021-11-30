@@ -15,4 +15,4 @@
 
 Смысл жизни:
 1. <a href="https://github.com/dominic-of-russia/cradle.well-being">Таланты и привилегии</a>
-2. <a href="https://github.com/requirement.well-being">Портативная еда</a>
+2. <a href="https://github.com/dominic-of-russia/requirement.well-being">Портативная еда</a>
