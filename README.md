@@ -7,7 +7,7 @@
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород создавались мои личные проекты благополучия (well-being).
 
 Программирование:
-1. <a href="https://github.com/dominic-of-russia/code.well-being">Типизированная DDD</a>
+1. <a href="https://github.com/dominic-of-russia/code.well-being">Типизированная ddd</a>
 2. <a href="https://github.com/dominic-of-russia/yii2.well-being">Конструктор yii2</a>
 
 Игры:
