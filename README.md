@@ -17,7 +17,7 @@
 
 Прокачка:
 1. <a href="https://github.com/dominic-of-russia/game.well-being">Игра лабиринт</a>
-2. IT бизнесс / скоро
+2. IT бизнесс / <a href="https://github.com/dominic-of-russia/investing.well-being/">скоро</a>
 
 Смысл жизни:
 1. <a href="https://github.com/dominic-of-russia/cradle.well-being">Таланты и привилегии</a>
