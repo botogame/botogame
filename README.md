@@ -22,4 +22,4 @@
 Смысл жизни:
 1. <a href="https://github.com/dominic-of-russia/cradle.well-being">Таланты и привилегии</a>
    - <a href="https://github.com/dominic-of-russia/cradle.well-being/blob/main/Размышления">Подмечание особенностей</a>
-2. <a href="https://github.com/dominic-of-russia/requirement.well-being">Портативная еда</a>
+2. Портативная еда / <a href="https://github.com/dominic-of-russia/requirement.well-being">скоро</a>
