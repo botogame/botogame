@@ -2,7 +2,7 @@
 
 С 2017 года занимаюсь упорядочивающими программами. 
 
-> До этого с 2012 php-фрилансил на https://www.fl.ru/users/botogame/
+> До этого с 2012 <a href="https://www.fl.ru/users/botogame/">php-фрилансил</a>
 
 ![](./caribe.jpg)
 
