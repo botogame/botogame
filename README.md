@@ -2,7 +2,7 @@
 
 С 2017 года занимаюсь разработкой человеческого генотипа "well being". 
 
-> А так же <a href="https://www.fl.ru/users/botogame/">php-фрилансю</a>.
+> А так же занимаюсь <a href="https://www.fl.ru/users/botogame/">фрилансом</a> на php.
 
 ![](./well-being-no-4-cicle.png)
 
