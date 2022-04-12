@@ -17,9 +17,9 @@
 
 Прокачка:
 1. <a href="https://github.com/dominic-of-russia/game.prudence">Игра лабиринт</a>
-2. скоро / <a href="https://github.com/dominic-of-russia/investing.prudence/">IT бизнес</a>
+2. скоро <a href="https://github.com/dominic-of-russia/investing.prudence/">IT бизнес</a>
 
 Смысл жизни:
 1. <a href="https://github.com/dominic-of-russia/cradle.prudence">Таланты и привилегии</a>
    - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Размышления">Подмечание особенностей</a>
-2. скоро / <a href="https://github.com/dominic-of-russia/requirement.prudence">Портативная еда</a>
+2. скоро <a href="https://github.com/dominic-of-russia/requirement.prudence">Портативная еда</a>
