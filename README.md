@@ -22,4 +22,5 @@
 Смысл жизни:
 1. <a href="https://github.com/dominic-of-russia/cradle.prudence">Таланты и привилегии</a>
    - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Размышления">Подмечание особенностей</a>
+   - <a href="https://github.com/dominic-of-russia/cradle.prudence#прототипы">Катализатор ритма</a>
 2. скоро <a href="https://github.com/dominic-of-russia/requirement.prudence">Портативная еда</a>
