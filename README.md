@@ -10,7 +10,7 @@
 
 Работа:
 1. <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Типизированная ddd</a>
-   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/blob/main/README.md">Центрированный сайт</a>
+   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/Readme.md">Резонансный код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Внешний%20вид%20программы/Readme.md">Программа разработки</a>
 2. <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a>
