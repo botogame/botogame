@@ -9,7 +9,7 @@
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород разрабатывались проекты "благоразумие". Спасибо США и её различным ресурсам, благодаря которым я был на необходимом уровне знаний.
 
 Работа:
-1. <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Типизированная ddd</a> upd. ![](https://благополучная-колыбель.рф/github/github_update.php?repositorie=code.prudence)
+1. <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Типизированная ddd</a> upd. ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update.php?repositorie=code.prudence)
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/Readme.md">Резонансный код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Внешний%20вид%20программы/Readme.md">Программа разработки</a>
