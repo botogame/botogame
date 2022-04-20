@@ -14,6 +14,7 @@
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/Readme.md">Резонансный код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Внешний%20вид%20программы/Readme.md">Программа разработки</a>
 2. <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence)
+   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Токсичность%20в%20yii2/README.md">Токсичность в yii2</a>
 
 Прокачка:
 1. <a href="https://github.com/dominic-of-russia/game.prudence/blob/main/README.md">Игра лабиринт</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=game.prudence)
