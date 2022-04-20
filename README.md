@@ -10,7 +10,7 @@
 
 Работа:
 1. <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Бизнес код</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.prudence)
-   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Внешний%20вид%20программы/README.md">Конструктор резонансного кода</a>
+   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 2. <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence)
