@@ -16,7 +16,7 @@
 
 2. Благоразумный yii2 ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence):
    - <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a>
-   - <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/Прототипы/Токсичность%20в%20yii2/README.md">Токсичность в yii2</a>
+   - <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/Прототипы/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
 
 3. Благоразумная игра ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=game.prudence):
    - <a href="https://github.com/dominic-of-russia/game.prudence/blob/main/README.md">Игра лабиринт</a>
