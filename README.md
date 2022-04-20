@@ -21,9 +21,10 @@
 2. скоро <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">IT бизнес</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=investing.prudence)
 
 Смысл жизни:
-1. <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/README.md">Таланты и привилегии</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=cradle.prudence)
-   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Размышления/Readme.md">Подмечание особенностей</a>
-   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/README.md#прототипы">Катализатор ритма</a>
+1. <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/README.md">Образование индивидуальности</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=cradle.prudence)
+   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
+   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
+   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
 2. скоро <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence)
 
 
