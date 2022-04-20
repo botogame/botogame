@@ -8,24 +8,31 @@
 
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород разрабатывались проекты "благоразумие". Спасибо США и её различным ресурсам, благодаря которым я был на необходимом уровне знаний.
 
-Работа:
-1. <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Бизнес код</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.prudence)
+1. Благоразумный код ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.prudence):
+   - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Бизнес код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
    - <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
-2. <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence)
+
+2. Благоразумный yii2 ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence):
+   - <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a>
    - <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/Прототипы/Токсичность%20в%20yii2/README.md">Токсичность в yii2</a>
 
-Прокачка:
-1. <a href="https://github.com/dominic-of-russia/game.prudence/blob/main/README.md">Игра лабиринт</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=game.prudence)
-2. скоро <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">IT бизнес</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=investing.prudence)
+3. Благоразумная игра ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=game.prudence):
+   - <a href="https://github.com/dominic-of-russia/game.prudence/blob/main/README.md">Игра лабиринт</a>
 
-Смысл жизни:
-1. <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/README.md">Образование индивидуальности</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=cradle.prudence)
+
+4. Благоразумное инвестирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=investing.prudence):
+   - скоро <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">IT бизнес</a>
+
+5. Благоразумная колыбель ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=cradle.prudence):
+   - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/README.md">Образование индивидуальности</a>
    - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
    - <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
-2. скоро <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a> ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence)
+
+6. Благоразумные запросы ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence):
+   - скоро <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a>
 
 
 
