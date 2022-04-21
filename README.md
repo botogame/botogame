@@ -32,7 +32,7 @@
    - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
 
 6. Благоразумные запросы ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence&raw=true):
-   - [ ] <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a> (в работе)
+   - [ ] <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a>
 
 
 
