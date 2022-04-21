@@ -8,11 +8,11 @@
 
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород разрабатывались проекты "благоразумие". Спасибо США и её различным ресурсам, благодаря которым я был на необходимом уровне знаний.
 
-1. Благоразумный код ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.prudence&raw=true):
-   - [ ] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
-   - [X] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
-   - [X] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
+1. Благоразумное программирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.programming&raw=true):
+   - [ ] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/README.md">Бизнес код</a>
+   - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
+   - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
+   - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 2. Благоразумная yii2 ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence&raw=true):
    - [ ] <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a>
