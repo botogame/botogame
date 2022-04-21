@@ -14,7 +14,7 @@
    - [X] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/dominic-of-russia/code.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
-2. Благоразумный yii2 ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence&raw=true):
+2. Благоразумная yii2 ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=yii2.prudence&raw=true):
    - [ ] <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/README.md">Конструктор yii2</a>
    - [X] <a href="https://github.com/dominic-of-russia/yii2.prudence/blob/main/Прототипы/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
 
