@@ -8,7 +8,7 @@
 
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород разрабатывались проекты "благоразумие". Спасибо США и её различным ресурсам, благодаря которым я был на необходимом уровне знаний.
 
-1. Благоразумное программирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=code.programming&raw=true):
+1. Благоразумное программирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=programming.prudence&raw=true):
    - [ ] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
