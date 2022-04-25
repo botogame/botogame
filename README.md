@@ -17,7 +17,7 @@
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
 
-2. Благоразумное инвестирование ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1aii/github/github_update.php?repositorie=investing.prudence&update=1):
+2. Благоразумное инвестирование ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=investing.prudence&update=1):
    - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Основа%20виртуализации/README.md">Основа виртуализации</a>
 
