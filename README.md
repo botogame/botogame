@@ -15,6 +15,7 @@
    - [ ] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
+   - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
 
 2. Благоразумное инвестирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=investing.prudence&update=1):
    - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Портативная еда</a>
@@ -25,7 +26,6 @@
    - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
-   - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
 
 
 
