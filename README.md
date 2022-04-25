@@ -31,7 +31,7 @@
    - [ ] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
    - [X] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Феномены/README.md">Феномены</a>
 
-6. Благоразумные запросы ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence&update=1):
+6. Благоразумные потребности ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=requirement.prudence&update=1):
    - [ ] <a href="https://github.com/dominic-of-russia/requirement.prudence/blob/main/README.md">Портативная еда</a>
 
 
