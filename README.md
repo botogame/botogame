@@ -17,8 +17,8 @@
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 2. Благоразумное инвестирование ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=investing.prudence&update=1):
-   - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Основа виртуализации</a>
-   - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
+   - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Портативная еда</a>
+   - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Основа%20виртуализации/README.md">Основа виртуализации</a>
 
 3. Благоразумная колыбель ![](https://xn----7sbacdjr2becdctmafk8ewd6dya1d.xn--p1ai/github/github_update2.php?repositorie=cradle.prudence&update=1):
    - [ ] <a href="https://github.com/dominic-of-russia/cradle.prudence/blob/main/Прототипы/Играр%20лабиринт/README.md">Игра лабиринт</a>
