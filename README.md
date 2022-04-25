@@ -21,7 +21,7 @@
    - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Основа%20виртуализации/README.md">Основа виртуализации</a>
 
-3. Благоразумное благополучие ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=cradle.prudence&update=1):
+3. Благоразумное благополучие ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=well-being.prudence&update=1):
    - [ ] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/README.md">Игра лабиринт</a>
    - [X] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
    - [X] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
