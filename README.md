@@ -31,7 +31,7 @@
    - [X] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
 
 ```diff
-! P.s. никто не знает что будет завтра.
+! никто не знает что будет завтра.
 ```
 
 
