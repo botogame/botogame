@@ -9,7 +9,7 @@
 > В течении 2017-2021 годов в городах Южно-Сахалинск, Санкт-Петербург, Москва и Нижний Новгород разрабатывались проекты "благоразумие". В 2022 году сведение всех разработок воедино. Спасибо США и её различным ресурсам, благодаря которым я был на необходимом уровне знаний и стабильности.
 
 
-![](https://img.shields.io/static/v1?label=&color=green&message=1. Благоразумное программирование) ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=programming.prudence&update=4):
+![](https://img.shields.io/static/v1?label=&color=green&message=1.%20Благоразумное%20программирование) ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=programming.prudence&update=4):
    - [ ] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/README.md">Бизнес код</a>
    - [ ] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Конструктор%20yii2/README.md">Конструктор yii2</a>
    - [X] <a href="https://github.com/dominic-of-russia/programming.prudence/blob/main/Прототипы/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
