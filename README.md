@@ -22,7 +22,7 @@
 2. Благоразумное инвестирование ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=investing.prudence&update=4):
    - [ ] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
-   - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Основа%20виртуализации/README.md">Основа виртуализации</a>
+   - [X] <a href="https://github.com/dominic-of-russia/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
 
 3. Благоразумное благополучие ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=well-being.prudence&update=4):
    - [ ] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/README.md">Игра лабиринт</a>
