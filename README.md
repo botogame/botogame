@@ -30,10 +30,3 @@
    - [ ] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/dominic-of-russia/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
 
-```diff
-! никто не знает что будет завтра.
-```
-
-
-
-
