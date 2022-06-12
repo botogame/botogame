@@ -28,7 +28,8 @@
    - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
 
 2. Благоразумное инвестирование ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=investing.prudence&update=8):
-   - [ ] <a href="https://github.com/equalizerIT/investing.prudence/blob/main/README.md">Портативная еда</a>
+   - [ ] <a href="https://github.com/equalizerIT/investing.prudence/blob/main/README.md">Арканы</a>
+   - [X] <a href="https://github.com/equalizerIT/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/equalizerIT/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
    - [X] <a href="https://github.com/equalizerIT/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
 
