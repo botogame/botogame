@@ -20,7 +20,7 @@
 1. Благоразумное программирование:
    - [ ] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/README.md">Конструктор бизнес кода</a>
    - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Бизнес%20код/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Конструктор%20yii2/README.md">Конструктор yii2</a>
+   - [ ] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Конструктор%20yii2/README.md">Конструктор yii2</a>
    - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
    - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
