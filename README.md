@@ -39,5 +39,5 @@
    - [ ] <a href="https://github.com/equalizerIT/well-being.prudence/blob/main/README.md">Игра лабиринт</a>
    - [X] <a href="https://github.com/equalizerIT/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
       - [ ] <a href="https://github.com/equalizerIT/well-being.prudence/blob/main/Прототипы/Места%20силы/README.md">Места силы</a>
-      - [ ] <a href="https://github.com/equalizerIT/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
+      - [X] <a href="https://github.com/equalizerIT/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
 
