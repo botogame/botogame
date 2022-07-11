@@ -17,7 +17,7 @@
 
 ### Мои проекты
 
-> Проекты с галочкой означают что доведены до целостного формата, но и там возможны дополнения/изменения.
+> Проекты с галочкой означают что проекты были доведены до целостного формата, но в дальнейшем возможно будут дополнения/изменения.
 
 1. Благоразумное программирование ![](https://xn----7sbndqaygqvb1fvc1b.xn--p1ai/github/github_update.php?repositorie=programming.prudence&update=8):
    - [ ] <a href="https://github.com/equalizerIT/programming.prudence/blob/main/README.md">Конструктор бизнес кода</a>
