@@ -30,7 +30,7 @@
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
 
 <b>2. Благоразумное инвестирование</b>
-   - [ ] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Привилегии</a>
+   - [ ] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
