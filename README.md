@@ -36,7 +36,8 @@
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
 
 <b>3. Благоразумное благополучие</b>
-   - [ ] <a href="https://github.com/botogame/well-being.prudence/blob/main/README.md">Игра лабиринт</a>
+   - [ ] <a href="https://github.com/botogame/well-being.prudence/blob/main/README.md">Иное понимание капитализма</a>
+   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Игра%20лабиринт/README.md">Игра лабиринт</a>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
 
