@@ -4,7 +4,7 @@
 
 > А так же я занимаюсь <a href="https://www.fl.ru/users/botogame/">программированием на php</a> и децентрализацией с опорой на историю.
 
-![](./Fortnite_blog_v3-1-0-patch-notes_LuckyLander_Header-1920x400-cb1d5767f66c2a71656ea986341bf34b12ba5280.jpg)
+![](./header.jpg)
 
 <hr>
 
