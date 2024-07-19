@@ -10,7 +10,7 @@
 
 ### Проекты
 
-С 2017 года произвожу <a target="_blank" href="https://github.com/botogame/perfect_path/blob/main/README.md">эзотерическую разработку</a>: 
+С 2017 года выстраиваю в себе <a target="_blank" href="https://github.com/botogame/perfect_path/blob/main/README.md">безупречный путь</a>: 
 
 1. Эффективности
 2. Оптимальности
