@@ -10,12 +10,12 @@
 
 ### Проекты
 
-С 2017 года выстраиваю в себе <a target="_blank" href="https://github.com/botogame/perfect_path/blob/main/README.md">безупречность</a>: 
+С 2017 года выстраиваю в себе <a target="_blank" href="https://github.com/botogame/perfect_path/blob/main/README.md">безупречные параметры</a>: 
 
-1. Эффективности
-2. Оптимальности
-3. Практичности
-4. Деликатности
+1. Эффективность
+2. Оптимальность
+3. Практичность
+4. Деликатность
 
 И веду свои it-исследования:
 
