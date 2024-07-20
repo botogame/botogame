@@ -6,7 +6,7 @@
 
 <hr>
 
-### Мои проекты
+### Результат пути таков
 
 <b>1. Благоразумное программирование</b>
    - [ ] <a href="https://github.com/botogame/programming.prudence/blob/main/README.md">Конструктор бизнес кода</a>
