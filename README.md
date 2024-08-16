@@ -16,11 +16,9 @@
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
 
 <b>2. Скил эффективности: инвестирование</b>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Создание привилегий</a>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
 
@@ -32,6 +30,8 @@
    
 <b>4. Скил деликатности: бронирование</b>
    - [X] <a target="_blank" href="https://github.com/botogame/reservation.prudence/blob/main/README.md">Катализатор мечты</a>
+   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
+   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
 
 <hr>
 
