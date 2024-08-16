@@ -18,18 +18,18 @@
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 <b>2. Скил эффективности: инвестирование</b>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
+   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Игра%20лабиринт/README.md">Игра лабиринт</a>
 
 <b>3. Скил практичности: благость</b>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/README.md">Иное понимание капитализма</a>
-   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Игра%20лабиринт/README.md">Игра лабиринт</a>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
    
 <b>4. Скил деликатности: бронирование</b>
    - [X] <a target="_blank" href="https://github.com/botogame/reservation.prudence/blob/main/README.md">Катализатор мечты</a>
+   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
 
