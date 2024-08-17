@@ -18,7 +18,6 @@
    - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 <b>2. Скил эффективности: инвестирование</b>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Исключение%20конфликтов/README.md">Исключение конфликтов</a>
    - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
    - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Игра%20лабиринт/README.md">Игра лабиринт</a>
 
