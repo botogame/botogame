@@ -2,35 +2,35 @@
 
 Я прорабатываю скилы разумности для избавления от напрасности.
 
-![](./4.jpg)
+![](./pictures/4.jpg)
 
 <hr>
 
 ### Здесь результат моих работ 👇
 
 <b>1. Скил оптимальности: программирование</b>
-   - [ ] <a href="https://github.com/botogame/programming.prudence/blob/main/README.md">Конструктор бизнес кода</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Бизнес%20код/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Конструктор%20yii2/README.md">Конструктор yii2</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Резонансный%20код/README.md">Резонансный код</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Центрированный%20сайт/README.md">Центрированный сайт</a>
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20бизнес%20кода/README.md">Конструктор бизнес кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Бизнес%20код/README.md">Бизнес код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20yii2/README.md">Конструктор yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Резонансный%20код/README.md">Резонансный код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 <b>2. Скил эффективности: инвестирование</b>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Основы%20планирования/README.md">Основы планирования</a>
-   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Игра%20лабиринт/README.md">Игра лабиринт</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/investing/Основы%20планирования/README.md">Основы планирования</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/investing/Игра%20лабиринт/README.md">Игра лабиринт</a>
 
 <b>3. Скил практичности: благость</b>
-   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/README.md">Иное понимание капитализма</a>
-   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
-   - [X] <a href="https://github.com/botogame/programming.prudence/blob/main/Прототипы/Иное%20познание/README.md">Иное познание</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/goodness/Иное%20понимание%20капитализма/README.md">Иное понимание капитализма</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/goodness/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/goodness/Иное%20познание/README.md">Иное познание</a>
    
 <b>4. Скил деликатности: бронирование</b>
-   - [X] <a target="_blank" href="https://github.com/botogame/reservation.prudence/blob/main/README.md">Катализатор мечты</a>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/README.md">Создание привилегий</a>
-   - [X] <a href="https://github.com/botogame/well-being.prudence/blob/main/Прототипы/Катализатор%20талантов/README.md">Катализатор талантов</a>
-   - [X] <a href="https://github.com/botogame/investing.prudence/blob/main/Прототипы/Портативная%20еда/README.md">Портативная еда</a>
+   - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/reasonableness/reservation/Катализатор%20мечты/README.md">Катализатор мечты</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/reservation/Создание%20привилегий/README.md">Создание привилегий</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/reservation/Катализатор%20талантов/README.md">Катализатор талантов</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/reservation/Портативная%20еда/README.md">Портативная еда</a>
 
 <hr>
 
