@@ -8,14 +8,14 @@
 
 ### Здесь результат моих работ 👇
 
-<b>1. Скил оптимальности: программирование</b>
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20бизнес%20кода/README.md">Конструктор бизнес кода</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Бизнес%20код/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20yii2/README.md">Конструктор yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Резонансный%20код/README.md">Резонансный код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/programming/Центрированный%20сайт/README.md">Центрированный сайт</a>
+<b>1. Скил оптимальности: раскрепощение</b>
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Конструктор%20бизнес%20кода/README.md">Конструктор бизнес кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Бизнес%20код/README.md">Бизнес код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Конструктор%20yii2/README.md">Конструктор yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Разоблачение%20yii2/README.md">Разоблачение yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Конструктор%20резонансного%20кода/README.md">Конструктор резонансного кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Резонансный%20код/README.md">Резонансный код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/emancipation/Центрированный%20сайт/README.md">Центрированный сайт</a>
 
 <b>2. Скил эффективности: инвестирование</b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/investing/Основы%20планирования/README.md">Основы планирования</a>
