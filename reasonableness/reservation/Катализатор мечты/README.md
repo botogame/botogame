@@ -282,7 +282,7 @@
 
 Схема переправы такая: 
 
-| Left-aligned | Center-aligned | Right-aligned | Right-aligned |
+
 |     :---:      |     :---:      |     :---:      |     :---:      |
 | `Т` | п | р | з |
 | п | `В` | з | р |
