@@ -28,11 +28,11 @@
    
 <b>4. Скил деликатности: оценка</b>
 
-   - :heavy_check_mark: <a target="_blank" href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20мечты/README.md">Катализатор мечты</a>
+   - <a target="_blank" href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20мечты/README.md">Катализатор мечты</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Создание%20привилегий/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Портативная%20еда/README.md">Портативная еда</a>
 
 <hr>
 
-Проекты с галочкой означают что проекты были доведены до целостного формата "выживание" (50 на 50 верно). Но это не конец, доработка может вестить и дальше. С такой :heavy_check_mark: галочкой означает что проект формата "жизнь".
+Проекты с галочкой означают что проекты были доведены до целостного формата "выживание" (50 на 50 верно). Но это не конец, доработка может вестить и дальше. С точкой означает что проект формата "жизнь".
