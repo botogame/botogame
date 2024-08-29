@@ -27,7 +27,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/goodness/Иное%20познание/README.md">Иное познание</a>
    
 <b>4. Скил деликатности: оценка</b>
-   - :heavy_check_mark: <a target="_blank" href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20мечты/README.md">Катализатор мечты</a>
+:heavy_check_mark: <a target="_blank" href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20мечты/README.md">Катализатор мечты</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Создание%20привилегий/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Катализатор%20талантов/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/reasonableness/evaluate/Портативная%20еда/README.md">Портативная еда</a>
