@@ -21,7 +21,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/investing/Основы%20планирования/README.md">Основы планирования</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/investing/Игра%20лабиринт/README.md">Игра лабиринт</a>
 
-<b>3. Скил практичности: доброта</b>
+<b>3. Скил практичности: оптимизация</b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/goodness/Иное%20понимание%20капитализма/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/goodness/Образование%20индивидуальности/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/goodness/Иное%20познание/README.md">Иное познание</a>
