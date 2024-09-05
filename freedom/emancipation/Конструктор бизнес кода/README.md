@@ -593,8 +593,6 @@ class RouterClass {
 ```php
 <?php 
 
-<?php
-
 class ComparisonYearsService extends RouterClass {
 
     /* Выполняется во время работы */
