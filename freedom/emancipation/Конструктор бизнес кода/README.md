@@ -294,7 +294,7 @@
 
 <hr>
 
-<h3>Этап 2. Код на уровне модульности</h3>
+<h3>Код на уровне модульности</h3>
 
 Введём символизм:
 1. 🎁 Конструкции
@@ -399,7 +399,7 @@
 
 <hr>
 
-<h3>Этап 3. Код на уровне версионности</h3>
+<h3>Код на уровне версионности</h3>
 
 Чтобы не путаться в подобных цифрах - `31.0.2.1.212312.12332131232` будет закреплять модификации задачами проектов (`магазин / корзина`, `пользователи / фикс вывода #2`). Так мы сможем ввести загрузку на dev и prod только нужных модификаций. Единственно нужно обдумать как быть с теми конструкциями, которые были изменены по двум задачам (табу на ведение двух задач в смежных конструкций?).
 
@@ -439,7 +439,7 @@
 
 <hr>
 
-<h3>Этап 4. Код на уровне реализации</h3>
+<h3>Код на уровне реализации</h3>
 
 У программы (сайта) будет четыре стадии:
 
@@ -464,8 +464,213 @@
 
 <hr>
 
-<h3>Этап 5. Стэк работы</h3>
+<h3>Стэк работы</h3>
 
 <img src="./Картинки/Стек_работы_v2.jpg" width="600" />
+
+Модель программирования примерно будет такая:
+
+```
+📁product-metrica
+    📁public
+        📄index.php
+    📁src
+        📁modules
+            📄RouterClass.php
+        📁services
+            📄ComparisonYearsService.php
+```
+
+Содержимое index.php:
+
+```php
+<?php 
+
+require __DIR__ . '/../src/modules/RouterClass.php';
+require __DIR__ . '/../src/services/ComparisonYearsService.php';
+
+$router = new RouterClass();
+echo $router->run_request_service();
+
+?>
+```
+
+Содержимое RouterClass.php:
+
+```php
+<?php 
+
+class RouterClass {
+
+  var $services = ['comparison_years'=>'ComparisonYearsService'];
+  var $token = 'asavuf81';
+
+/*формирование ответа на return*/
+public function formited_answer($answer,$text) {
+
+    if(!in_array($answer,['error','result','request'])){
+        $answer = 'unknown';
+    }
+
+    $result = ['answer'=>$answer,'text'=>$text];
+
+    return $result;
+  
+}
+
+/*подключение сервиса*/
+public function run_request_service() {
+
+$service_request = $this->get_service_request();
+
+if($service_request['answer']!='result'){
+  $this->set_service_answer($service_request);
+}
+else{
+
+    $check_token = $this->check_token();
+
+   if($check_token['answer']!='result'){
+      $this->set_service_answer($check_token);
+   }
+   else{
+
+      $service = new $service_request['text']();
+      $service_answer = $service->run();
+
+      $this->set_service_answer($service_answer);
+   }
+  
+}
+
+}
+
+/*отвечаем*/
+public function set_service_answer($answer) {
+
+    //echo json_encode($array);
+    //echo print_r($answer,true);
+
+  if($answer['answer']=='result'){
+
+ echo 'Количество заказов за '.$answer['text']['date'].':     '.$answer['text']['metrica_orders'].' штук это на <b>'.intval($answer['text']['merge_per_orders']).'</b>% '.(($answer['text']['merge_per_orders']>0)?' больше':' меньше').' чем в том году<br>
+Выручка: '.number_format($answer['text']['metrica_revenue'], 0, ',', ' ').' это на <b>'.intval($answer['text']['merge_per_revenue']).'</b>% '.(($answer['text']['merge_per_revenue']>0)?' больше':' меньше').' чем в том году
+';
+
+
+  }
+    elseif($answer['answer']=='request' and ($answer['text']=='null_token' or $answer['text']=='bad_token')){
+      echo 'не правильный токен';
+    }
+    elseif($answer['answer']=='request' and ($answer['text']=='null_date' or $answer['text']=='bad_date')){
+      echo 'не правильный формат getinfo (дд.мм.гг)';
+    }
+  else{
+    echo 'не правильный запрос';
+  }
+  
+  die;
+
+}
+
+    /*получаем сервис запроса*/
+    public function get_service_request() {
+
+    $service_request = @$_GET['service'];
+    if($service_request==''){
+      return $this->formited_answer('request','null_service');
+    }
+
+   if(!isset($this->services[$service_request])){
+     return $this->formited_answer('request','bad_service');
+    }
+
+    return $this->formited_answer('result',$this->services[$service_request]);
+
+    }
+
+    /*получаем сервис запроса*/
+    public function check_token() {
+
+    $token = @$_GET['token'];
+      
+    if($token==''){
+      return $this->formited_answer('request','null_token');
+    }
+
+   if($token!=$this->token){
+     return $this->formited_answer('request','bad_token');
+    }
+
+    return $this->formited_answer('result',true);
+
+    }
+
+}
+
+?>
+```
+
+Содержимое ComparisonYearsService.php:
+
+```php
+<?php 
+
+class ComparisonYearsService extends RouterClass {
+
+
+/*выполняется во время работы*/
+public function run() {
+
+$date_request = $this->get_date_request();
+
+if($date_request['answer']!='result'){
+
+return $date_request;
+
+}
+else{
+
+  $metrica_last_year = ['orders'=>500,'revenue'=>800000];
+  $metrica_this_year = ['orders'=>1600,'revenue'=>4050000];
+  
+$date_merge = [
+  'date'=>$date_request['text'],
+  'metrica_orders'=>$metrica_this_year['orders'],
+  'metrica_revenue'=>$metrica_this_year['revenue'],
+  'merge_per_orders'=> (ceil(($metrica_this_year['orders']*100)/$metrica_last_year['orders'])-100),
+  'merge_per_revenue'=> (ceil(($metrica_this_year['revenue']*100)/$metrica_last_year['revenue'])-100),
+  ];
+
+return $this->formited_answer('result',$date_merge);
+
+}
+
+} 
+
+
+    /*получаем дату запроса*/
+    public function get_date_request() {
+
+    $date_request = @$_GET['getinfo'];
+    if($date_request==''){
+      return $this->formited_answer('request','null_date');
+    }
+
+   if(!preg_match('/([0-9]{1,2})\.([0-9]{1,2})\.([0-9]{4})/',$date_request,$date_request_arr) or $date_request_arr[2]>12){
+     return $this->formited_answer('request','bad_date');
+    }
+
+    $date_request = date('d.m.Y',strtotime($date_request_arr[0]));
+
+    return $this->formited_answer('result',$date_request);
+
+    }
+
+
+}
+
+?>
+```
 
 > <===== To be continued 
