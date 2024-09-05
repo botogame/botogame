@@ -638,5 +638,6 @@ class ComparisonYearsService extends RouterClass {
 
 ?>
 ```
+В итоге получается замкнутый api на файл /product-metrica/public/index.php с запросом: ?service=comparison_years&getinfo=10.10.2025&token=1234
 
 > <===== To be continued 
