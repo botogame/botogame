@@ -503,7 +503,7 @@ echo $router->run_request_service();
 class RouterClass {
 
     var $services = ['comparison_years' => 'ComparisonYearsService'];
-    var $token = 'asavuf81';
+    var $token = '1234';
 
     /* Формирование ответа на return */
     public function formited_answer($answer, $text) {
