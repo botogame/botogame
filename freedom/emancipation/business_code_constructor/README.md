@@ -481,7 +481,8 @@
             📄ComparisonYearsService.php
 ```
 
-Содержимое index.php:
+<details>
+<summary><ins>Содержимое index.php</ins></summary>
 
 ```php
 <?php 
@@ -494,9 +495,11 @@ echo $router->run_request_service();
 
 ?>
 ```
-
-Содержимое RouterClass.php:
-
+</details>
+       
+<details>
+<summary><ins>Содержимое RouterClass.php</ins></summary>
+       
 ```php
 <?php
 
@@ -588,7 +591,10 @@ class RouterClass {
 ?>
 ```
 
-Содержимое ComparisonYearsService.php:
+</details>
+       
+<details>
+<summary><ins>Содержимое ComparisonYearsService.php</ins></summary>
 
 ```php
 <?php 
@@ -636,6 +642,8 @@ class ComparisonYearsService extends RouterClass {
 
 ?>
 ```
+</details>
+
 В итоге получается замкнутый api на файл /product-metrica/public/index.php с запросом: ?service=comparison_years&getinfo=10.10.2025&token=1234
 
 > Здесь RouterClass.php это старые наработки, а ComparisonYearsService.php новые. Конфигурации же уходят как в modules, там и в services.
