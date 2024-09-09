@@ -480,6 +480,7 @@
         📁services
             📄ComparisonYearsService.php
 ```
+Код замкнут на index.php. В RouterClass.php храняться старые наработки-опыт с предыдущих проектов, а ComparisonYearsService.php новые, необходимые только для проекта (с подстройкой). Конфигурации проекта хранятся как в modules, там и в services.
 
 <details>
 <summary><ins>Содержимое index.php</ins></summary>
@@ -644,8 +645,7 @@ class ComparisonYearsService extends RouterClass {
 ```
 </details>
 
-В итоге получается замкнутый api на файл /product-metrica/public/index.php с запросом: ?service=comparison_years&getinfo=10.10.2025&token=1234
-
-> Код замкнут на index.php. В RouterClass.php храняться старые наработки-опыт с предыдущих проектов, а ComparisonYearsService.php новые, необходимые только для проекта (с подстройкой). Конфигурации проекта хранятся как в modules, там и в services.
+В итоге получается замкнутый api на файл /product-metrica/public/index.php с запросом: 
+<b>?service=comparison_years&getinfo=10.10.2025&token=1234</b>
 
 > <===== To be continued 
