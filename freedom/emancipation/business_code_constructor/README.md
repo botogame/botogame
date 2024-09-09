@@ -646,6 +646,6 @@ class ComparisonYearsService extends RouterClass {
 
 В итоге получается замкнутый api на файл /product-metrica/public/index.php с запросом: ?service=comparison_years&getinfo=10.10.2025&token=1234
 
-> Здесь RouterClass.php это старые наработки, а ComparisonYearsService.php новые. Конфигурации же уходят как в modules, там и в services.
+> Код замкнут на index.php. В RouterClass.php храняться старые наработки-опыт с предыдущих проектов, а ComparisonYearsService.php новые, необходимые только для проекта (с подстройкой). Конфигурации проекта хранятся как в modules, там и в services.
 
 > <===== To be continued 
