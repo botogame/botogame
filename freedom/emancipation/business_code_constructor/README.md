@@ -471,7 +471,7 @@
 Модель программирования примерно будет такая:
 
 ```
-📁product-metrica
+📁programm
     📁public
         📄index.php
     📁core
