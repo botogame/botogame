@@ -474,7 +474,7 @@
 📁product-metrica
     📁public
         📄index.php
-    📁src
+    📁core
         📁modules
             📄RouterClass.php
         📁services
@@ -488,8 +488,8 @@
 ```php
 <?php 
 
-require __DIR__ . '/../src/modules/RouterClass.php';
-require __DIR__ . '/../src/services/ComparisonYearsService.php';
+require __DIR__ . '/../core/modules/RouterClass.php';
+require __DIR__ . '/../core/services/ComparisonYearsService.php';
 
 $router = new RouterClass();
 echo $router->run_request_service();
