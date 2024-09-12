@@ -497,6 +497,8 @@ echo $router->run_request_service();
 ?>
 ```
 </details>
+
+Паблик инклудит все классы и запускает центровой класс с инициирущей программу функцией.
        
 <details>
 <summary><ins>Содержимое RouterClass.php</ins></summary>
