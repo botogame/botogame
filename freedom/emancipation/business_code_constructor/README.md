@@ -593,6 +593,8 @@ class RouterClass {
 ```
 
 </details>
+
+Модули помогают создавать формат работы над сервисами.
        
 <details>
 <summary><ins>Содержимое ComparisonYearsService.php</ins></summary>
