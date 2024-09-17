@@ -28,7 +28,7 @@
    
 <b>4. Скил деликатности: оценка</b>
 
-   - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/dream_catalyst/README.md">`Катализатор мечты`</a>
+   - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/vigil/README.md">`Катализатор мечты`</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/portable_food/README.md">Портативная еда</a>
