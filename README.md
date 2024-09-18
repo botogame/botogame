@@ -9,7 +9,7 @@
 ### Здесь результат моих работ 👇
 
 <b>1. Скил оптимальности: раскрепощение</b>
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/business_code_constructor/README.md">Конструктор бизнес кода</a>
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/business_code_constructor/README.md">Генератор</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/yii2_constructor/README.md">Конструктор yii2</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/expose_yii2/README.md">Разоблачение yii2</a>
