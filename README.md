@@ -17,10 +17,10 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: оптимизация</b>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/optimization/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/optimization/education_individuality/README.md">Образование индивидуальности</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/optimization/other_knowledge/README.md">Иное познание</a>
+<b>2. Скил практичности: универсальность</b>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/education_individuality/README.md">Образование индивидуальности</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/other_knowledge/README.md">Иное познание</a>
    
 <b>3. Скил деликатности: оценка</b>
 
