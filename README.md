@@ -19,6 +19,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/centered_site/README.md">Центрированный сайт</a>
 
 <b>2. Скил практичности: универсальность</b>
+ > Скилл практичности подразумевает способность адаптировать решения и подходы к широкому спектру ситуаций, обеспечивая универсальность. Практичные навыки помогают не только решать задачи, но и обеспечивать их реализацию в реальных условиях. 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/education_individuality/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/other_knowledge/README.md">Иное познание</a>
