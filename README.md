@@ -12,10 +12,10 @@
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/business_code_constructor/README.md">Генератор бизнеса</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/yii2_constructor/README.md">Конструктор yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/expose_yii2/README.md">Разоблачение yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/resonant_code/README.md">Резонансный код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/emancipation/centered_site/README.md">Центрированный сайт</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/expose_yii2/README.md">Разоблачение yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/resonant_code/README.md">Резонансный код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/centered_site/README.md">Центрированный сайт</a>
 
 <b>2. Скил эффективности: инвестирование</b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/investing/planning_basics/README.md">Основы планирования</a>
