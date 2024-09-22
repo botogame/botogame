@@ -26,6 +26,8 @@
    
 <b>3. Скил деликатности: оценка</b>
 
+> Скилл деликатности подразумевает тонкость и осторожность в подходах к различным задачам, особенно когда требуется точная оценка или чувствительное взаимодействие. 
+
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/vigil/README.md">`Бдилка`</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/talent_catalyst/README.md">Катализатор талантов</a>
