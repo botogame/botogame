@@ -28,15 +28,15 @@
 
 > Скилл деликатности подразумевает тонкость и осторожность в подходах к различным задачам, особенно когда требуется точная оценка или чувствительное взаимодействие. 
 
-   - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/vigil/README.md">`Бдилка`</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/creating_privileges/README.md">Создание привилегий</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/talent_catalyst/README.md">Катализатор талантов</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/evaluate/portable_food/README.md">Портативная еда</a>
+   - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/portable_food/README.md">Портативная еда</a>
 
 <b>4. Скил эффективности: распределение</b>
 > Скилл эффективности в инвестировании заключается в способности достигать наилучших результатов с минимальными затратами. Это требует стратегического мышления, грамотного распределения ресурсов и постоянного контроля над рисками.
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/investing/planning_basics/README.md">Основы планирования</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/investing/maze_game/README.md">Игра лабиринт</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/planning_basics/README.md">Основы планирования</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/maze_game/README.md">Игра лабиринт</a>
 
 <hr>
 
