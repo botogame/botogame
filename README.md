@@ -17,10 +17,10 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: универсальность</b>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/education_individuality/README.md">Образование индивидуальности</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/versatility/other_knowledge/README.md">Иное познание</a>
+<b>2. Скил практичности: уникальность</b>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/education_individuality/README.md">Образование индивидуальности</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/other_knowledge/README.md">Иное познание</a>
    
 <b>3. Скил деликатности: взаимодействие</b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
