@@ -8,15 +8,15 @@
 
 ### Здесь результат моих работ 👇
 
-<b>1. Скил оптимальности: влиятельность</b>
+<b>1. Скил оптимальности: внушительность</b>
  > Скилл оптимальности — это умение находить влиятельные решения в различных задачах, будь то бизнес, программирование или проектирование систем.
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/business_code_constructor/README.md">Генератор бизнеса</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/business_code/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/yii2_constructor/README.md">Конструктор yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/expose_yii2/README.md">Разоблачение yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/resonant_code/README.md">Резонансный код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/influence/centered_site/README.md">Центрированный сайт</a>
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code_constructor/README.md">Генератор бизнеса</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code/README.md">Бизнес код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/yii2_constructor/README.md">Конструктор yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/expose_yii2/README.md">Разоблачение yii2</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/resonant_code/README.md">Резонансный код</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/centered_site/README.md">Центрированный сайт</a>
 
 <b>2. Скил практичности: универсальность</b>
  > Скилл практичности подразумевает способность адаптировать решения и подходы к широкому спектру ситуаций, обеспечивая универсальность. Практичные навыки помогают не только решать задачи, но и обеспечивать их реализацию в реальных условиях. 
