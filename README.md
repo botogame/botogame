@@ -8,7 +8,7 @@
 
 ### Здесь результат моих работ 👇
 
-<b>1. Скил оптимальности: внушительность</b>
+<b>1. Скил оптимальности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=eeYEv53uJ34">🃏</a></b>
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code_constructor/README.md">Генератор бизнеса</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/yii2_constructor/README.md">Конструктор yii2</a>
@@ -17,18 +17,18 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: уникальность</b>
+<b>2. Скил практичности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">👛</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/education_individuality/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/other_knowledge/README.md">Иное познание</a>
    
-<b>3. Скил деликатности: взаимодействие</b>
+<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=xfT645b6l0s">🔪</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/portable_food/README.md">Портативная еда</a>
 
-<b>4. Скил эффективности: распределение</b>
+<b>4. Скил эффективности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a></b>
 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/planning_basics/README.md">Основы планирования</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/maze_game/README.md">Игра лабиринт</a>
