@@ -22,7 +22,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/education_individuality/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/other_knowledge/README.md">Иное познание</a>
    
-<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=xfT645b6l0s">🔪</a></b>
+<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
