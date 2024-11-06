@@ -8,7 +8,7 @@
 
 ### Здесь результат моих работ 👇
 
-<b>1. Скил оптимальности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=eeYEv53uJ34">🃏</a></b>
+<b>1. Скил оптимальности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code_constructor/README.md">Генератор бизнеса</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/yii2_constructor/README.md">Конструктор yii2</a>
@@ -22,7 +22,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/education_individuality/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/other_knowledge/README.md">Иное познание</a>
    
-<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
+<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=eeYEv53uJ34">🃏</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
