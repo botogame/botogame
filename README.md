@@ -8,7 +8,7 @@
 
 ### Здесь результат моих работ 👇
 
-<b>1. Скил оптимальности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🎒</a></b>
+<b>1. Скил оптимальности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code_constructor/README.md">Генератор бизнеса</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/yii2_constructor/README.md">Конструктор yii2</a>
@@ -28,7 +28,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/portable_food/README.md">Портативная еда</a>
 
-<b>4. Скил эффективности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🔪</a></b>
+<b>4. Скил эффективности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a></b>
 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/planning_basics/README.md">Основы планирования</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/maze_game/README.md">Игра лабиринт</a>
