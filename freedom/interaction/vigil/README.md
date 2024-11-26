@@ -11,8 +11,7 @@
 
 <img src="./Картинки/слизевик.jpeg">
 
-Разработана программа в виде <a href="./выбор_желания.html">html файла</a>, <a href="https://botogame.github.io/vigil/">сайта</a> и <a href="./
-ПМ Бдилка.apk">андроид приложения</a>. 
+Разработана программа в виде <a href="./выбор_желания.html">html файла</a>, <a href="https://botogame.github.io/vigil/">сайта</a> и <a href="https://botogame.github.io/vigil/ПМ_Бдилка.apk">андроид приложения</a>. 
 
 <hr>
 
