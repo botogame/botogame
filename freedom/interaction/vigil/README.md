@@ -11,7 +11,8 @@
 
 <img src="./Картинки/слизевик.jpeg">
 
-Разработан html-скрипт, <a href="./выбор_желания.html">скачивайте</a> и <a href="https://botogame.github.io/vigil/">открывайте онлайн</a>. 
+Разработана программа в виде <a href="./выбор_желания.html">html файла</a>, <a href="https://botogame.github.io/vigil/">сайта</a> и <a href="./
+ПМ Бдилка.apk">андроид приложения</a>. 
 
 <hr>
 
