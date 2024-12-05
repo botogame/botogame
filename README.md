@@ -9,7 +9,7 @@
 ### Здесь результат моих работ 👇
 
 <b>1. Скил оптимальности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code_constructor/README.md">Генератор бизнеса</a>
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code_constructor/README.md">Конструктор бизнес кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/yii2_constructor/README.md">Конструктор yii2</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/expose_yii2/README.md">Разоблачение yii2</a>
