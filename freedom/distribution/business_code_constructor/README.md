@@ -828,14 +828,14 @@ class ComparisonYearsService extends RouterClass {
         var out = function8();
         td_items = out[0];
         function function11(in1,in2){
-            in1=in1+1;if(in2[in1]!=undefined){
+            in1=in1+1;
+            if(in2[in1]!=undefined){
                 return [in1,in2[in1]];
             }
             else{
                 return [in1,null];
             }
         }
-
         var reflex19num = 0;
         function reflex19(reflex19num){
             var out = function11(td_num,td_items);
