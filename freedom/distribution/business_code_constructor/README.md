@@ -663,7 +663,7 @@ class ComparisonYearsService extends RouterClass {
 
 Соберём <a href="https://botogame.github.io/new_age_code/bild_code.html" target="_blank">тестовым билдером</a> такой слепок кода: 
 
-<img src="./картинки/2024-12-13_14-51-08.png">
+<img src="./Картинки/2024-12-13_14-51-08.png">
 
 <details>
 <summary><ins>массив слепка</ins></summary>
