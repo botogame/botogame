@@ -661,7 +661,7 @@ class ComparisonYearsService extends RouterClass {
 
 <h3>Прототип #1</h3>
 
-Соберём <a href="[https://botogame.github.io/new_age_code/bild_code.html](https://botogame.github.io/circuit-coder/)" target="_blank">тестовым билдером</a> такую схему: 
+Соберём <a href="https://botogame.github.io/new_age_code/bild_code.html" target="_blank">тестовым билдером</a> такую схему: 
 
 <img src="./Картинки/code_new_on_select.png">
 
