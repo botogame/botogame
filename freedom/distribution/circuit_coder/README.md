@@ -1,6 +1,6 @@
 # Скил оптимальности: распределение 
 
-## Проект "Чистый код. Схемокодер"
+## Проект "Схемокодер"
 
 Онлайн схемокодер разрабатывается здесь: <a href="https://botogame.github.io/circuit-coder/">https://botogame.github.io/circuit-coder/</a>.
 
