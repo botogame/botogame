@@ -911,8 +911,72 @@ calculateExpression('d1 = d1 + d2');
 calculateExpression('d1 = d1 + "; alert(\'Ваш сайт взломан!\')"');
 ```
 
-Вы говорите что это уязвимо. Доверие оказано не просто так. И вообще даже дебаггинг давно так не делают, ну со схемокодером естественно.
+Вы говорите что это уязвимо... Доверие оказано не просто так... И вообще даже дебаггинг давно так не делают - в схемокодере есть тестовый запуск.
 
+Далее прорабатываем входящие и исходящии переменные:
 
+```js
+function calculateExpression(expression, context) {
+    try {
+        // Получаем все глобальные функции из window (или globalThis)
+        const globalFunctions = Object.getOwnPropertyNames(window).filter(name => {
+            return typeof window[name] === 'function' && name !== 'eval' && name !== 'arguments';
+        });
+
+        // Добавляем глобальные функции в контекст, если они не определены
+        globalFunctions.forEach(funcName => {
+            if (!context.hasOwnProperty(funcName)) {
+                context[funcName] = window[funcName];
+            }
+        });
+
+        // Создаем функцию с ограниченным контекстом
+        const func = new Function(...Object.keys(context), `
+            "use strict";
+            ${expression};
+            return { ${Object.keys(context).join(', ')} };
+        `);
+
+        // Выполняем функцию и получаем обновленный контекст
+        return func(...Object.values(context));
+    } catch (e) {
+        console.error("Ошибка в выражении:", e.message);
+    }
+}
+
+var d1 = 1;
+var d2 = 4;
+var contents = { d1, d2 };
+
+var result = calculateExpression('d1 = d1 + d2', contents);
+
+if (result) {
+    for (const key in result) {
+        if (result.hasOwnProperty(key)) {
+            contents[key] = result[key];
+        }
+    }
+    // Обновляем сами переменные из contents
+    eval('({ d1, d2 } = contents)');
+}
+
+console.log('d1 = ' + d1);
+console.log('d2 = ' + d2);
+
+var result = calculateExpression('d2 = screen.width + "px"', contents);
+
+if (result) {
+    for (const key in result) {
+        if (result.hasOwnProperty(key)) {
+            contents[key] = result[key];
+        }
+    }
+    // Обновляем сами переменные из contents
+    eval('({ d1, d2 } = contents)');
+}
+
+console.log('d1 = ' + d1);
+console.log('d2 = ' + d2);
+```
 
 
