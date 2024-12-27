@@ -979,4 +979,75 @@ console.log('d1 = ' + d1);
 console.log('d2 = ' + d2);
 ```
 
+<h3>Триггеры</h3>
 
+Помимо того, что будет выполнено при первом формировании, разработаем отслеживание изменения элементов (чтобы была возможность быстро среагировать):
+
+```js
+<div id="1" data-test="2">TEXT1</div><div id="3" style="color:red">TEXT2</div>
+<script>
+// Конфигурация для наблюдения
+const watchConfig = {
+'1': ['innerText', 'data-test'],
+'3': ['innerText', 'style.color']
+};
+
+// Функция обратного вызова для отслеживания изменений
+const callback = function(mutationsList, observer) {
+for (let mutation of mutationsList) {
+    const targetId = mutation.target.id || mutation.target.parentNode.id;
+    if (mutation.type === 'attributes') {
+     if (watchConfig[targetId] && watchConfig[targetId].includes(mutation.attributeName)) {
+        console.log(`Атрибут ${mutation.attributeName} изменен у элемента с id ${targetId}: ${mutation.target.getAttribute(mutation.attributeName)}`);
+     } else if (mutation.attributeName === 'style') {
+        watchConfig[targetId]?.forEach(attr => {
+         if (attr.startsWith('style.')) {
+            const styleProp = attr.split('.')[1];
+            const newValue = mutation.target.style[styleProp];
+            if (newValue !== previousStyles[targetId]?.[styleProp]) {
+             console.log(`Стиль ${styleProp} изменен у элемента с id ${targetId}: ${newValue}`);
+             previousStyles[targetId] = { ...previousStyles[targetId], [styleProp]: newValue };
+            }
+         }
+        });
+     }
+    } else if (mutation.type === 'characterData') {
+     if (watchConfig[targetId] && watchConfig[targetId].includes('innerText')) {
+        console.log(`innerText изменен у элемента с id ${targetId}: ${mutation.target.data}`);
+     }
+    }
+}
+};
+
+// Создаем экземпляр MutationObserver и передаем ему функцию обратного вызова
+const observer = new MutationObserver(callback);
+
+// Указываем конфигурацию для наблюдения
+const configAttributes = { attributes: true, subtree: true };
+const configCharacterData = { characterData: true, subtree: true };
+
+// Храним предыдущие значения стилей для каждого элемента
+const previousStyles = {};
+
+// Настраиваем наблюдение для каждого элемента из конфигурации
+for (const id in watchConfig) {
+const element = document.getElementById(id);
+if (element) {
+    if (watchConfig[id].includes('innerText')) {
+     observer.observe(element.firstChild, configCharacterData); // Наблюдаем за изменениями текста
+    }
+    if (watchConfig[id].some(attr => attr.startsWith('style'))) {
+     previousStyles[id] = {};
+     watchConfig[id].forEach(attr => {
+        if (attr.startsWith('style.')) {
+         const styleProp = attr.split('.')[1];
+         previousStyles[id][styleProp] = element.style[styleProp]; // Инициализируем предыдущее значение стиля
+        }
+     });
+    }
+    observer.observe(element, configAttributes); // Наблюдаем за изменениями атрибутов
+}
+}
+</script>
+```
+Атрибуту onclick приделаем запуск централизованной функции, которой передадим id тэга и с чем контакт "onclick". Для атрибутов применим такую же тактику: id тэга, атрибут.
