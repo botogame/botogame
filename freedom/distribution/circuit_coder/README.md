@@ -890,14 +890,15 @@ class ComparisonYearsService extends RouterClass {
 У вас задача не ошибиться:
 
 ```js
-calculateExpression(expression) {
+function calculateExpression(expression) {
     try {
         eval(expression); // Потенциально опасная строка
     } catch (e) {
         console.error("Ошибка в выражении:", e);
     }
 }
-
+d1 = 1;
+d2 = 5;
 calculateExpression('d1 = d1 + d2');
 ```
 Эта функция нужна, и вам без неё никуда... напряжение... пошёл анализ:
