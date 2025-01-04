@@ -16,7 +16,6 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/other_knowledge/README.md">Иное познание</a>
 
 <b>2. Скил практичности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/portable_food/README.md">Портативная еда</a>
@@ -27,6 +26,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/education_individuality/README.md">Образование индивидуальности</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/other_knowledge/README.md">Иное познание</a>
 
 <b>4. Скил эффективности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">👛</a></b>
 
