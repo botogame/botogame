@@ -11,8 +11,6 @@
 <b>1. Скил оптимальности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Схемокодер</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/yii2_constructor/README.md">Конструктор yii2</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/expose_yii2/README.md">Разоблачение yii2</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
