@@ -15,9 +15,9 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: внушительность <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">🎒</a></b>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/portable_food/README.md">Портативная еда</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/maze_game/README.md">Игра лабиринт</a>
+<b>2. Скил практичности: порядок <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">🎒</a></b>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
 <b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=eeYEv53uJ34">🃏</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Бдилка`</a>
@@ -28,8 +28,8 @@
 
 <b>4. Скил эффективности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
 
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
-   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/impressiveness/planning_basics/README.md">Основы планирования</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
+   - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
 <hr>
 
