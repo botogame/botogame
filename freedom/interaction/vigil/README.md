@@ -1,6 +1,6 @@
 # Скил деликатности: взаимодействие
 
-## Проект "Бдилка"
+## Проект "Пасьянс Медичи. Бдилка"
 
 
 Выпущена книга на <a href="https://www.litres.ru/book/andrey-volkov-33168547/pasyans-medichi-bdilka-71113513/" target="_blank">litres.ru</a>
