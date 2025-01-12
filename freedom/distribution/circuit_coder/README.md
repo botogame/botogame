@@ -2,7 +2,7 @@
 
 ## Проект "Квантовое Мышление. Схемокодер"
 
-Онлайн схемокодер разрабатывается здесь: <a href="https://botogame.github.io/circuit-coder/">https://botogame.github.io/circuit-coder/</a>.
+Онлайн схемокодер реализовывается здесь: <a href="https://botogame.github.io/circuit-coder/">https://botogame.github.io/circuit-coder/</a>.
 
 Пример составления html тэгов с вытавлением "class": <a href="https://www.youtube.com/watch?v=oW7JlXuVCf0" target="_blank">видос на ютуб</a>
 
