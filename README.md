@@ -30,6 +30,7 @@
 
 <b>4. Скил эффективности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
 
+   - [ ] [конечная инстанция]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
