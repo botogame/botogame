@@ -17,7 +17,7 @@
 
 <b>2. Скил практичности: порядок <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">🎒</a></b>
 
-   - [] [важная практика]
+   - [ ] [важная практика]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
