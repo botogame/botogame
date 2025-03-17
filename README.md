@@ -15,7 +15,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: порядок <a target="_blank" href="https://www.youtube.com/watch?v=QfdEGwmTwKo">🎒</a></b>
+<b>2. Скил практичности: порядок <a target="_blank" href="[https://www.youtube.com/watch?v=QfdEGwmTwKo](https://m.youtube.com/watch?v=PCOXZqw3ST0">🎒</a></b>
 
    - [ ] [важная практика] ![](./pictures/caribe10.jpg)
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
