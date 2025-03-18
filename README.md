@@ -17,7 +17,7 @@
 
 <b>2. Скил практичности: порядок <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🎒</a></b>
 
-   - [ ] [важная практика] ![](./pictures/drevo.jpg)
+   - [ ] ![](./pictures/drevo.jpg) [важная практика] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
@@ -30,7 +30,7 @@
 
 <b>4. Скил эффективности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
 
-   - [ ] [конечная инстанция] ![](./pictures/naa_aa11.jpg)
+   - [ ] ![](./pictures/naa_aa11.jpg) [конечная инстанция] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
