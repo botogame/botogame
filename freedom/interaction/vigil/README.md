@@ -16,7 +16,7 @@
 Youtube канал: <a href="https://www.youtube.com/@pm_bdilka">https://www.youtube.com/@pm_bdilka</a>
 
 <details>
-<summary><ins>Методичка приложения для Бдилки https://botogame.github.io/vigil/</ins></summary>
+<summary><ins>Методичка для работы с приложением</ins></summary>
 
 
 1. Выбор пола: вы можете для новой мечты выбрать противоложный пол например чтобы спиздить артефакт симулировав артефакту (не вы выбираете артефакт, а артефакт выбирает и идет к вам) свойственный и нужный ему пол.
