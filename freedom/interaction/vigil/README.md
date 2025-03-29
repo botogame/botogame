@@ -3,7 +3,7 @@
 ## Проект "Пасьянс Медичи. Бдилка"
 
 
-Выпущена книга на <a href="https://www.litres.ru/book/andrey-volkov-33168547/pasyans-medichi-bdilka-71113513/" target="_blank">litres.ru</a> и открыт <a href="https://www.youtube.com/@pm_bdilka">youtube канал</a>
+Есть книга <a href="https://www.litres.ru/book/andrey-volkov-33168547/pasyans-medichi-bdilka-71113513/" target="_blank">litres.ru</a>, но актуал читайте здесь.
 
 <img width="250px;" src="./Картинки/2024-09-17_20-48-05.png">
 
@@ -11,9 +11,11 @@
 
 <img src="./Картинки/слизевик.jpeg">
 
-Онлайн приложение: <a href="https://botogame.github.io/vigil/">https://botogame.github.io/vigil/</a> (на айфонах скорее всего не работает - купите дешевый планшет)
-Телеграм для поддержки и приложением на андроид: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
-Youtube канал: <a href="https://www.youtube.com/@pm_bdilka">https://www.youtube.com/@pm_bdilka</a>
+- Онлайн приложение: <a href="https://botogame.github.io/vigil/">https://botogame.github.io/vigil/</a> (на айфонах скорее всего не работает - купите дешевый планшет)
+
+- Телеграм для поддержки и приложением на андроид: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
+
+- Youtube канал: <a href="https://www.youtube.com/@pm_bdilka">https://www.youtube.com/@pm_bdilka</a>
 
 <details>
 <summary><ins>Методичка для работы с приложением</ins></summary>
