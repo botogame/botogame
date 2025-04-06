@@ -15,7 +15,7 @@
 
 ### Ниже результат моих исследований 👇
 
-<b>1. Скил оптимальности: уникальность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
+<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">`Квантовое Мышление. Схемокодер`</a> [перспективный исходник]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
