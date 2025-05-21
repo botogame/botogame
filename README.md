@@ -15,14 +15,14 @@
 
 ### Ниже результат моих исследований 👇
 
-<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">👛</a></b>
+<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">`Квантовое Мышление. Схемокодер`</a> [перспективный исходник]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: комплектация <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🎒</a></b>
+<b>2. Скил практичности: комплектация <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">👛</a></b>
 
    - [ ] ![](./pictures/drevo.jpg) [важная практика] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
