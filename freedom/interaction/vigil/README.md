@@ -13,7 +13,7 @@
 
 - Онлайн приложение: <a href="https://botogame.github.io/vigil/">https://botogame.github.io/vigil/</a> (на айфонах скорее всего не работает - покупайте дешевый планшет)
 
-- Телеграм для поддержки и с приложением на андроид: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
+- Телеграм для поддержки и направления: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
 
 - Youtube канал: <a href="https://www.youtube.com/@pm_bdilka">https://www.youtube.com/@pm_bdilka</a>
 
