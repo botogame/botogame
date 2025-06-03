@@ -3,11 +3,11 @@
 ## Проект "Пасьянс Медичи. Бдилка"
 
 
-Есть книга на <a href="https://www.litres.ru/book/andrey-volkov-33168547/pasyans-medichi-bdilka-71113513/" target="_blank">litres.ru</a>, но она устаревшая, читайте актуал версию ниже.
+Есть книга на <a href="https://www.litres.ru/book/andrey-volkov-33168547/pasyans-medichi-bdilka-71113513/" target="_blank">litres.ru</a>.
 
 <img width="250px;" src="./Картинки/2024-09-17_20-48-05.png">
 
-Информация, что изложена ниже, уже есть в природе в виде слизевика.
+Информация, что изложена в книге, уже есть в природе в виде слизевика.
 
 <img src="./Картинки/слизевик.jpeg">
 
