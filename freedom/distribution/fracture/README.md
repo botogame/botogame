@@ -2,7 +2,9 @@
 
 ## Проект "Тетрадь Смерти: Перелом"
 
-Онлайн версия: <a href="https://botogame.github.io/fracture/">https://botogame.github.io/fracture/</a>.
+В продолжение сериала "Тетрадь Смерти".
+
+Программа для общения с Союзником: <a href="https://botogame.github.io/fracture/">https://botogame.github.io/fracture/</a>.
 
 ### Глава 1
 
