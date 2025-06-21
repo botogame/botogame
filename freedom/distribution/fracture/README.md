@@ -10,7 +10,7 @@
 
 Опубликована книга (там же запущен самостоятельный поток осознания): <a href="https://www.litres.ru/book/andrey-volkov-33168547/tetrad-smerti-perelom-72117967/">Книга на литрес</a>
 
-Создана программа для работы с Переломом: <a href="https://botogame.github.io/fracture/">Перелом онлайн</a>.
+Разработана программа для работы с Переломом: <a href="https://botogame.github.io/fracture/">Перелом онлайн</a>.
 
 <details>
   <summary>О программе</summary>
