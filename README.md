@@ -15,7 +15,7 @@
 
 ### Ниже результат моих исследований 👇
 
-<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a></b>
+<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/fracture/README.md">Тетрадь Смерти: Перелом</a> [трамплин мира]
    - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Квантовое Мышление. Схемокодер</a> [перспективный исходник]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
@@ -36,9 +36,9 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/education_individuality/README.md">Образование индивидуальности</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/other_knowledge/README.md">Иное познание</a>
 
-<b>4. Скил эффективности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=AKO5r0QJO-w">🔪</a></b>
+<b>4. Скил эффективности: распределение</b>
 
-   - [ ] ![](./pictures/naa_aa11.jpg) [конечная инстанция] 
+   - [ ] ![](./pictures/naa_aa11.jpg) <a target="_blank" href="https://www.youtube.com/watch?v=y_Tfj7MyRts">🎒</a>[конечная инстанция] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
