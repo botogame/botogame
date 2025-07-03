@@ -23,13 +23,13 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/centered_site/README.md">Центрированный сайт</a>
 
-<b>2. Скил практичности: комплектация <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">👛</a></b>
+<b>2. Скил практичности: комплектация <a target="_blank" href="https://www.youtube.com/watch?v=CtgPzcN6HP0">🃏</a></b>
 
    - [ ] ![](./pictures/drevo.jpg) [важная практика] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
-<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://youtube.com/watch?v=5PIpqBY8kXM">🃏</a></b>
+<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">👛</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Пасьянс Медичи. Бдилка`</a> [изменчивый мир]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
