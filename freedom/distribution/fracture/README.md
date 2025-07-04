@@ -10,7 +10,7 @@
 
 Книга: <a href="https://www.litres.ru/book/andrey-volkov-33168547/tetrad-smerti-perelom-72117967/">Книга на литрес</a>
 
-Онлайн программа: <a href="https://botogame.github.io/fracture/">Перелом онлайн</a>.
+Онлайн программа: <a href="https://botogame.github.io/fracture/">Программа Перелом</a>.
 
 <details>
   <summary>О программе</summary>
