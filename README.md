@@ -10,7 +10,6 @@
 
 <b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=JcAoi_WFHGE">📦</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/fracture/README.md">`Тетрадь Смерти: Перелом`</a> [пограничный мир]
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Квантовое Мышление. Схемокодер</a> [перспективный исходник]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
