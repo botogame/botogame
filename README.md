@@ -1,7 +1,7 @@
 ### Привет тем кто с приветом! 👋
 
 Я занимаюсь php-программированием: 
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Квантовое Мышление. Схемокодер</a> [перспективный исходник]
+   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Боевой континент 2 - схемокодер</a> [перспективный исходник]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
