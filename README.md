@@ -12,7 +12,7 @@
 
 А так же эзотерикой:
 
-<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=JcAoi_WFHGE">📦</a></b>
+<b>1. Скил оптимальности: особенность <a target="_blank" href="https://www.youtube.com/watch?v=LWGJA9i18Co">📦</a></b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/fracture/README.md">`Тетрадь Смерти: Перелом`</a> [пограничный мир]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/other_knowledge/README.md">Иное познание</a>
