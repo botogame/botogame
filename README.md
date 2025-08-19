@@ -23,7 +23,7 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
-<b>3. Скил деликатности: распределение <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🖋️</a></b>
+<b>3. Скил деликатности: уникальность <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🖋️</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Пасьянс Медичи. Бдилка`</a> [изменчивый мир]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/education_individuality/README.md">Образование индивидуальности</a>
