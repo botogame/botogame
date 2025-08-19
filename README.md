@@ -23,12 +23,12 @@
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
-<b>3. Скил деликатности: взаимодействие <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🃏</a></b>
+<b>3. Скил деликатности: распределение <a target="_blank" href="https://m.youtube.com/watch?v=PCOXZqw3ST0">🖋️</a></b>
    - [X] <a target="_blank" href="https://github.com/botogame/botogame/blob/main/freedom/interaction/vigil/README.md">`Пасьянс Медичи. Бдилка`</a> [изменчивый мир]
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/education_individuality/README.md">Образование индивидуальности</a>
 
-<b>4. Скил эффективности: распределение <a target="_blank" href="https://www.youtube.com/watch?v=Xid-UfuOwVs">🚬</a></b>
+<b>4. Скил эффективности: взаимодействие <a target="_blank" href="https://www.youtube.com/watch?v=Xid-UfuOwVs">🃏</a></b>
 
    - [ ] ![](./pictures/naa_aa11.jpg)[конечная инстанция] 
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
