@@ -9,7 +9,7 @@
 ![](./Картинки/bk2.png)
 
 ```python
-# Боевой Кодекс Программиста
+# Боевой Кодекс Программиста python
 
 class Programmer:
     def __init__(self, name):
