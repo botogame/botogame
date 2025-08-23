@@ -9,7 +9,7 @@
 
 <img src="./Картинки/слизевик.jpeg">
 
-- Онлайн приложение: <a href="https://botogame.github.io/vigil/">https://botogame.github.io/vigil/</a> (на айфонах скорее всего не работает - покупайте дешевый планшет)
+- Онлайн приложение: <a href="https://botogame.ru/vigil/">https://botogame.ru/vigil/</a> (на айфонах скорее всего не работает - покупайте дешевый планшет)
 
 - Телеграм для поддержки и направления: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
 
