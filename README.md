@@ -19,7 +19,7 @@
 
 <b>2. Скил практичности: комплектация | 👛м - 🏺ж</b>
 
-   - [ ] ![](./pictures/drevo.jpg) [важная практика] 
+   - [X] ![](./pictures/drevo.jpg) [важная практика] - получена в виде артефакта "Святой Грааль"
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
@@ -30,7 +30,7 @@
 
 <b>4. Скил эффективности: распределение | 🏺м - 👛ж</b>
 
-   - [ ] ![](./pictures/naa_aa11.jpg)[конечная инстанция] 
+   - [X] ![](./pictures/naa_aa11.jpg)[конечная инстанция] - получена в виде артефакта "Череп Невинно убиенного"
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
