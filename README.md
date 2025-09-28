@@ -30,7 +30,7 @@
 
 <b>4. Скил эффективности: распределение | 🏺м - 👛ж</b>
 
-   - [X] ![](./pictures/naa_aa11.jpg)[конечная инстанция] - получена в виде артефакта "Череп Невинно убиенного"
+   - [X] ![](./pictures/naa_aa11.jpg)[конечная инстанция] - получен в виде артефакта "Череп Невинно убиенного"
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
