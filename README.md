@@ -12,11 +12,11 @@
 
 А так же эзотерикой:
 
-<b>1. Скил оптимальности: особенность | 💎м - 📿ж</b>
+<b>1. Скил оптимальности: особенность | 👛м - 🏺ж</b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/interaction/other_knowledge/README.md">Иное познание</a>
 
-<b>2. Скил практичности: комплектация | 👛м - 🏺ж</b>
+<b>2. Скил практичности: комплектация | 💎м - 📿ж</b>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
