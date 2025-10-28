@@ -74,11 +74,11 @@ $герой->статус();
 
 -----------------------------------------------------------
 
-Онлайн схемокодер реализовывается здесь: <a href="https://botogame.ru/circuit-coder/">https://botogame.ru/circuit-coder/</a>.
+Старый прототип на html: <a href="https://botogame.ru/circuit-coder/">https://botogame.ru/circuit-coder/</a>.
 
-Пример составления html тэгов с вытавлением "class": <a href="https://www.youtube.com/watch?v=oW7JlXuVCf0" target="_blank">видос на ютуб</a>
+Видосы работы старого прототипа на html: <a href="https://www.youtube.com/@circuit-coder" target="_blank">youtube @circuit-coder</a>
 
-Подписывайтесь на телеграмм <a href="https://t.me/pm_bdilka">https://t.me/pm_bdilka</a>
+Подписывайтесь на телеграмм <a href="https://t.me/botogame_ru_zone">https://t.me/botogame_ru_zone</a>
 
 -----------------------------------------------------------
 
