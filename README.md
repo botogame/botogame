@@ -1,7 +1,6 @@
 ### 👋Привет, если с приветом!
 
 Я занимаюсь php и javascript-программированием: 
-   - [ ] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/circuit_coder/README.md">Схемокодер боевого континента 2</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/botogame/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
@@ -31,3 +30,5 @@
 <hr>
 
 Проекты с галочкой означают что проекты были доведены до целостного формата "выживание" (50 на 50 верно). Но это не конец, доработка может вестить и дальше.
+
+<a href="https://www.litres.ru/author/andrey-volkov-33168547/">Мои книги</a>
