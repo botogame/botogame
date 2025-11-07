@@ -25,5 +25,3 @@
 Группа в телеграмме для обсуждения нового витка программирования <a href="https://t.me/botogame_ru_zone">https://t.me/botogame_ru_zone</a>
 
 
-
-```
